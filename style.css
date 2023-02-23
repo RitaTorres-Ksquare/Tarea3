@@ -1,0 +1,43 @@
+body{
+    align-items: center;
+    text-align: center;
+    background-color: #8FC243;
+
+}
+
+h1{
+    color: white;
+}
+
+header{
+    background-color: #999D93;
+}
+
+form{
+    color: white;
+    
+}
+input{
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+img{
+    margin-top: 100px;
+}
+
+label{
+  display: inline-block;
+  width: 150px; 
+}
+
+.gender label{
+    display: inline-block;
+    width: 80px;
+}
+p{
+    color: white;
+}
+h5{
+    color: white;
+}
